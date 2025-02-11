@@ -1,6 +1,6 @@
 # Banco de Dados - Oficina Mecânica 🚗🔧
 
-Este repositório contém o modelo conceitual de um banco de dados para o gerenciamento de uma oficina mecânica. 
+Este repositório contém o modelo conceitual de um banco de dados para o gerenciamento de uma oficina mecânica, permitindo controle eficiente de clientes, veículos, ordens de serviço, mecânicos e peças utilizadas. 
 
 ## 📌 Tecnologias Utilizadas
 - **MySQL** para estruturação do banco de dados
